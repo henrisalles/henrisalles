@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrisalles&show_icons=true&theme=dark)
 
-- Actually working as a lateral vehicle dynamics analyst at AmperaRacing - UFSC
+- Actually working as a Lateral Vehicle Dynamics Analyst at AmperaRacing - UFSC
 - Graduating in mechanical engineering UFSC
 - Working mainly in data analysis
 
