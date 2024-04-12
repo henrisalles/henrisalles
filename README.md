@@ -1,12 +1,14 @@
 # Hi, I'm Henrique 👋
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/henrisalles](https://www.linkedin.com/in/henrique-salles-0b1944269/))
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrisalles&show_icons=true&theme=dark)
 
 - Actually working as a Lateral Vehicle Dynamics Analyst at AmperaRacing - UFSC
 - Graduating in Mechanical Engineering - UFSC
 - Working mainly in data analysis
+
+## Contact me:
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/henrisalles](https://www.linkedin.com/in/henrique-salles-0b1944269/))
+
 
 ## Languages and Tools:
 <div style="display: inline_block">
