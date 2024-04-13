@@ -8,6 +8,11 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/henrisalles](https://www.linkedin.com/in/henrique-salles-0b1944269/))
 
 
+## Skills:
+- Web Scrapping
+- Data Science
+- Machine Learning
+
 ## Languages and Tools:
 <div style="display: inline_block">
     <img align="center" alt="html5", src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
