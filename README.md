@@ -5,12 +5,8 @@
 - Working mainly in data analysis
 
 ## Contact me:
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
-<a href="https://www.linkedin.com/in/henrique-salles-0b1944269/"><img class="ci ci-linkedin ci-2x" ></a>
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 
 ## Skills:
 - Web Scrapping
