@@ -5,7 +5,7 @@
 - Working mainly in data analysis
 
 ## Contact me:
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/henrisalles](https://www.linkedin.com/in/henrique-salles-0b1944269/))
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/henrique-salles-0b1944269/))
 
 
 ## Skills:
