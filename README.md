@@ -5,7 +5,7 @@
 - Working mainly in data analysis
 
 ## Contact me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/henrique-salles-0b1944269/)
 &nbsp;
 
 ## Skills:
