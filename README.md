@@ -5,7 +5,11 @@
 - Working mainly in data analysis
 
 ## Contact me:
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/henrique-salles-0b1944269/))
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
+/>
+<a href="https://www.linkedin.com/in/henrique-salles-0b1944269/"><i class="ci ci-linkedin ci-2x" ></i></a>
 
 
 ## Skills:
