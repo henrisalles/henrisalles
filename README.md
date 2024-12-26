@@ -1,6 +1,6 @@
 # Hi, I'm Henrique 👋
 
-- Actually working as a Lateral Vehicle Dynamics Analyst at AmperaRacing - UFSC
+- Actually working as Head of Lateral Vehicle Dynamics at AmperaRacing - UFSC
 - Graduating in Mechanical Engineering - UFSC
 - Working mainly in data analysis
 
