@@ -8,9 +8,8 @@
 &nbsp;
 
 ## Skills:
-- Web Scrapping
+- Engineering
 - Data Science
-- Machine Learning
 
 ## Languages and Tools:
 <div style="display: inline_block">
