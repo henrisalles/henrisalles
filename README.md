@@ -1,14 +1,15 @@
 # Hi, I'm Henrique 👋
 
 - Graduating in Mechanical Engineering - UFSC
-- Working mainly in data analysis
+- Working mainly with data analysis
 
 ## Contact me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/henrique-salles-0b1944269/)
 &nbsp;
 
 ## Skills:
-- Engineering
+- Mechanical Engineering
+- Kinematics Simulation
 - Data Science
 
 ## Languages and Tools:
